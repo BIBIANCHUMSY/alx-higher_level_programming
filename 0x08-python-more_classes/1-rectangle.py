@@ -3,6 +3,14 @@
 
 
 class Rectangle:
+    """ initializes the instance attributes width and height
+
+    Args:
+        width: how that 4polygon going to be
+        height: how tall is this box
+    Return: nonezo
+    """
+
     def __init__(self, width=0, height=0):
         self.width = width
         self.height = height
