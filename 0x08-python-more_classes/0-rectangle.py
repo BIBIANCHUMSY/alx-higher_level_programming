@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-a module that defines a rectangle
+"""a module that defines a rectangle"""
+
+
 class Rectangle:
-    This class have no attribute
+    """This class have no attribute"""
     pass 
