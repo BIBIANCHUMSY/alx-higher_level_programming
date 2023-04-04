@@ -4,4 +4,4 @@
 
 class Rectangle:
     """This class have no attribute"""
-    pass 
+    pass
